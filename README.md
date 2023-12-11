@@ -1,13 +1,14 @@
-![Black White Bold Design Thinking Brainstorm](https://github.com/ABUBAKARSIDDIQUEBAIG/ABUBAKARSIDDIQUEBAIG/assets/70310148/81cce92c-e273-4b0e-8131-9b38068ef8af)
+![Black White Bold Design Thinking Brainstorm](https://github.com/ABUBAKARSIDDIQUEBAIG/ABUBAKARSIDDIQUEBAIG/assets/70310148/81cce92c-e273-4b0e-8131-9b38068ef8af?  )
 
 
 
 
 <h1 align="center">Hi 👋, I'm Abubakar Siddique Baig</h1>
 
-<h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHE</h2>
+<h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
 <h3 align="center"> Having Bs Artificial intelligence and have a strong hands-on experience with Python Programming. I am certified in Machine Learning, I have good expertise in Data Analysis and Machine Learning</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=500&pause=1000&color=BDF7EE&background=3F30FF00&random=false&width=435&lines=%F0%9F%91%8B+Here%2C+%E2%86%93+" alt="Typing SVG" /></a>
    
@@ -78,6 +79,8 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/abubakarsiddiquebaig"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/abubakarsiddiquebaig" /></a></p><br><br>
 
 
 
