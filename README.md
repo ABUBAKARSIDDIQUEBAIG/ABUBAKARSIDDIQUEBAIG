@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abubakar Siddique Baig</h1>
-<h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
+
+<h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHE</h2>
 <h3 align="center"> Having Bs Artificial intelligence and have a strong hands-on experience with Python Programming. I am certified in Machine Learning, I have good expertise in Data Analysis and Machine Learning</h3>
+
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=500&pause=1000&color=BDF7EE&background=3F30FF00&random=false&width=435&lines=%F0%9F%91%8B+Here%2C+%E2%86%93+" alt="Typing SVG" /></a>
+   
+
+
+ <p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?color=CB4D89&center=true&vCenter=true&lines=ARTIFICIAL-INTELLI-Researcher;Machine_Learning-Expert;Python-Expert">
+   </p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarsiddiquebaig&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarsiddiquebaig" /> </p>
 
