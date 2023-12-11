@@ -1,3 +1,5 @@
+![Black White Bold Design Thinking Brainstorm](https://github.com/ABUBAKARSIDDIQUEBAIG/ABUBAKARSIDDIQUEBAIG/assets/70310148/81cce92c-e273-4b0e-8131-9b38068ef8af)
+
 
 
 
