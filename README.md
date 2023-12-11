@@ -1,3 +1,6 @@
+![Uploading Black White Bold Design Thinking Brainstorm.png…]()
+
+
 <h1 align="center">Hi 👋, I'm Abubakar Siddique Baig</h1>
 
 <h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHE</h2>
