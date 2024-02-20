@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=ffff99&center=true&vCenter=true&lines=Hi_👋;I'm;Abubakar_Siddique_Baig">
    </p>
 
-![Black White Bold Design Thinking Brainstorm](https://github.com/ABUBAKARSIDDIQUEBAIG/ABUBAKARSIDDIQUEBAIG/assets/70310148/81cce92c-e273-4b0e-8131-9b38068ef8af?
-
+![Black White Bold Design Thinking Brainstorm](https://github.com/ABUBAKARSIDDIQUEBAIG/ABUBAKARSIDDIQUEBAIG/assets/70310148/81cce92c-e273-4b0e-8131-9b38068ef8af?  )
 
 <h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
 
