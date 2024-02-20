@@ -7,7 +7,8 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=500&pause=1000&color=BDF7EE&background=3F30FF00&random=false&width=435&lines=%F0%9F%91%8B+ARTIFICIAL INTELLIGENCE RESEARCHER%2C+%E2%86%93+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=500&pause=1000&color=BDF7EE&background=3F30FF00&random=false&width=435&lines=%F0%9F%91%8B+
+                                     ARTIFICIAL_INTELLIGENCE _RESEARCHER%2C+%E2%86%93+" alt="Typing SVG" /></a>
 <h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
 
 
