@@ -13,6 +13,9 @@
 <h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
 
 
+<h3 align="center" style="font-family: Monaco, sans-serif; color: blue; font-size: 24px; font-weight: bold;">Having Bs Artificial intelligence and have a strong hands-on experience with Python Programming. I am certified in Machine Learning, I have good expertise in Data Analysis and Machine Learning</h3>
+
+
 
 <h3 align="center"> Having Bs Artificial intelligence and have a strong hands-on experience with Python Programming. I am certified in Machine Learning, I have good expertise in Data Analysis and Machine Learning</h3>
 
