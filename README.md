@@ -3,7 +3,7 @@
 
 
  <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?color=CB4D89&center=true&vCenter=true&lines=Hi 👋,;I'm;Abubakar_Siddique_Baig">
+    <img src="https://readme-typing-svg.herokuapp.com?color=CB4D89&center=true&vCenter=true&lines=Hi_👋;I'm;Abubakar_Siddique_Baig">
    </p>
 
 <h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
@@ -84,7 +84,7 @@
   
   
 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    
  
 
 
