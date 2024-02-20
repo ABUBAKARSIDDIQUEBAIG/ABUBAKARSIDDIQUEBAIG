@@ -26,9 +26,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=CB4D89&center=true&vCenter=true&lines=ARTIFICIAL-INTELLI-Researcher;Machine_Learning-Expert;Python-Expert">
    </p>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakarsiddiquebaig&label=Profile%20views&color=0e75b6&style=flat" alt="abubakarsiddiquebaig" /> </p>
+
 
 
 
