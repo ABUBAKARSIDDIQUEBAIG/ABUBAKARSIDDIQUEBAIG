@@ -7,8 +7,11 @@
 
 
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=500&pause=1000&color=BDF7EE&background=3F30FF00&random=false&width=435&lines=%F0%9F%91%8B+ARTIFICIAL INTELLIGENCE RESEARCHER%2C+%E2%86%93+" alt="Typing SVG" /></a>
 <h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
+
+
+
 <h3 align="center"> Having Bs Artificial intelligence and have a strong hands-on experience with Python Programming. I am certified in Machine Learning, I have good expertise in Data Analysis and Machine Learning</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
