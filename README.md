@@ -60,7 +60,9 @@
  
  <a href="https://www.python.org" target="_blank" rel="noreferrer">  </a> 
 
- <a href="https://www.python.org//en-in/" target="_blank" rel="noreferrer"> <img src="[https://cdn.worldvectorlogo.com/logos/django.svg](https://www.python.org/static/community_logos/python-logo-generic.svg)" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org//en-in/" target="_blank" rel="noreferrer">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" width="40" height="40"/>
+</a>
 
  
  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
