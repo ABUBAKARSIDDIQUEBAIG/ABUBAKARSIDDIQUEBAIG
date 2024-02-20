@@ -1,10 +1,12 @@
+ <p align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffff99&center=true&vCenter=true&lines=Hi_👋;I'm;Abubakar_Siddique_Baig">
+   </p>
+
 ![Black White Bold Design Thinking Brainstorm](https://github.com/ABUBAKARSIDDIQUEBAIG/ABUBAKARSIDDIQUEBAIG/assets/70310148/81cce92c-e273-4b0e-8131-9b38068ef8af?  )
 
 
 
- <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?color=ffff99&center=true&vCenter=true&lines=Hi_👋;I'm;Abubakar_Siddique_Baig">
-   </p>
+
 
 <h2 align="center" >ARTIFICIAL INTELLIGENCE RESEARCHER</h2>
 <h3 align="center"> Having Bs Artificial intelligence and have a strong hands-on experience with Python Programming. I am certified in Machine Learning, I have good expertise in Data Analysis and Machine Learning</h3>
@@ -27,7 +29,7 @@
 
 - 🔭 Project create By Using  Artificial Intelligence Tools And Library's To create **Deepfake Detection & Creation System**
 
-- 🌱 I’m currently learning     Django,Flask And Node.js
+- 🌱 I’m currently learning     Django,Flask And Fast Api
 
 - 👯 Research On Artificial intelligence Related **Anti Deepfake Examiner**
 
